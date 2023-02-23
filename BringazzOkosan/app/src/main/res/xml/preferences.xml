@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreferenceCompat
+        android:defaultValue="false"
+        android:key="key_imperialFormat"
+        android:summary="@string/summImperial"
+        android:title="@string/titleImperial" />
+    <ListPreference
+        android:title="@string/language"
+        android:summary="@string/summLanguage"
+        android:key="key_selectedLanguage"
+        android:defaultValue="en"
+        android:entries="@array/languageArray"
+        android:entryValues="@array/languageValues" />
+
+</PreferenceScreen>

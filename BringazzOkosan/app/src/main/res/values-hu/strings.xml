@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BringazzOkosan</string>
+    <string name="title_home">Kezdőlap</string>
+    <string name="title_history">Korábbi tevékenységek</string>
+    <string name="button_start">Kezdés</string>
+    <string name="time">Idő</string>
+    <string name="_0_0_km_h">0.0 km/h</string>
+    <string name="max_speed">Max sebesség:</string>
+    <string name="avg_speed">Átlag:</string>
+    <string name="distance">Távolság:</string>
+    <string name="_0_0_km">0.0 km</string>
+    <string name="duration">Időtartam:</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="km">km</string>
+    <string name="mi">mi</string>
+    <string name="km_h">km/h</string>
+    <string name="mi_h">mi/h</string>
+    <string name="stop">Vége</string>
+    <string name="max">Max:</string>
+    <string name="avg">Átl:</string>
+    <string name="dis">Táv:</string>
+    <string name="dur">Idő:</string>
+    <string name="delete">Törlés</string>
+    <string name="share">Megosztás</string>
+    <string name="shareTitle">---Ezt bringáztam---</string>
+    <string name="shareWatermark">Küldve BringazzOkosan app</string>
+    <string name="summImperial">Birodalma mértékegzség (mérföld) használata metrikus helyett</string>
+    <string name="titleImperial">Mérföld használata</string>
+    <string name="settings">Beállítások</string>
+    <string name="language">Nyelv</string>
+    <string name="summLanguage">Preferált nyelv beállítása</string>
+    <string name="exitMsg">Az adatok ezzel a kilépéssel elvesznek!\nBiztos kilépsz?</string>
+    <string name="exit">Kilép</string>
+    <string name="cancel">Mégse</string>
+
+</resources>

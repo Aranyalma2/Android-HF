@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string-array name="languageArray" tools:ignore="InconsistentArrays">
+        <item>English</item>item>
+        <item>Magyar</item>item>
+    </string-array>
+
+
+    <string-array name="languageValues" tools:ignore="InconsistentArrays">
+        <item>en</item>
+        <item>hu</item>
+    </string-array>
+</resources>
