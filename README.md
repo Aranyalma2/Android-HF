@@ -5,9 +5,6 @@ Információk [itt](https://viauac00.github.io/laborok/hf)
 ## Mobil- és webes szoftverek
 ### 2022.10.23
 ### Bringázz okosan
-### Németh Bálint - (MJB2CX)
-### nemeth.balint.02@edu.bme.hu
-### Laborvezető: Szabó Liza
 
 ## Bemutatás
 
